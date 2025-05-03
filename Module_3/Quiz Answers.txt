@@ -1,0 +1,17 @@
+Question 1: Which of the following problems are reasonable data collection problems? Select all that apply.
+Ans:
+Deciding what to eat for lunch
+Selecting the best cell phone plan for someone else
+Selecting the best cell phone plan for yourself
+
+
+Question 2: You need to collect data about climate change in your town from 2010 to 2015. Select the data values below that could help you with that analysis. 
+Ans:
+Historical temperature data
+Historical rain fall data
+
+
+Question 3: Assume you've decided to collect historical rainfall and windspeed data to do your analysis. Where can you find that data? Select all that apply
+Ans:
+Your local news stations
+Your national weather service

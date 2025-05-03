@@ -1,0 +1,20 @@
+1. Which of the following problems are reasonable data collection problems? Select all that apply.
+Ans:
+Deciding what to eat for dinner
+Selecting a new laptop for someone else
+Selecting the new laptop for yourself
+
+
+2.You need to collect data about the change in various crime rates in your town from 2010 to 2015. Select the data values below that could help you with that analysis. 
+Ans:
+Historical robbery data
+Historical murder data
+
+
+3.Assume you've decided to collect historical crime rate data to do your analysis. Where can you find that data? Select all that apply
+Ans:
+Your local police stations
+Your national crime bureau
+
+
+
